@@ -18,3 +18,4 @@
 ![7.png](https://github.com/Hanyu-Harden/jdosft/blob/master/picture/7.png)<br>
 6.进入智联招聘待处理人员的页面，选择你要复制的人员，点击进入，然后点击上面提到的图标，就会弹出他的信息，之后点击复制按钮就会成功复制，现在就可以粘贴到你想粘贴的地方<br>
 ![8.png](https://github.com/Hanyu-Harden/jdosft/blob/master/picture/8.png)<br>
+ccccc
